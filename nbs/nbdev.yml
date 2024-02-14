@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "CMPE188-Jupyter"
+  site-url: "https://klam20.github.io/CMPE188-Jupyter"
+  description: "A repo cloned for jupyter notebook and nbdev usage"
+  repo-branch: main
+  repo-url: "https://github.com/klam20/CMPE188-Jupyter"
